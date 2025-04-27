@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{E48E8459-32B8-78CF-5539-10D148C8A0FE}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MeshToggler.cs">
+    <Files>
+      <File FileName="Assets/Scripts/RotationController.cs" Line="12" Column="2" />
+      <File FileName="Assets/Scripts/MeshToggler.cs" Line="24" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="4 Jet Turbine" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="MeshToggler.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5fcb3560-69c9-4b70-90ec-5b2d981a9caf" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
