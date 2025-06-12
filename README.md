@@ -29,19 +29,6 @@ Tools Used: Blender (for 3D modeling), Unity Particle System, Unity UI
 
 ----
 
-📁 Project Structure
-
-📦 JetTurbine
- ┣ 📂 Assets
- ┃ ┣ 📂 Scripts
- ┃ ┣ 📂 Models
- ┃ ┣ 📂 Materials
- ┃ ┣ 📂 Prefabs
- ┃ ┣ 📂 Scenes
- ┗ 📂 ProjectSettings
-
- ----
-
  📌 Future Enhancements
 VR compatibility (Oculus/HTC)
 
