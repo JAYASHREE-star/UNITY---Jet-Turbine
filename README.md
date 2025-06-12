@@ -1,61 +1,52 @@
-🛠️ Jet Turbine Simulation - Unity Project
-A 3D interactive simulation built in Unity to demonstrate the working principles of a Jet Turbine Engine for educational and engineering visualization purposes.
+🛩️ Unity - Jet Turbine Simulation
+This project is a realistic Jet Turbine Simulation built using Unity. It is designed to simulate the physics and visual mechanics of a jet engine, ideal for educational demonstrations, aerospace concept visualization, or technical portfolio projects.
+
+----
 
 🚀 Features
-✅ Realistic 3D model of a jet engine
+✅ Real-time 3D jet turbine model
 
-🔄 Animated turbine blades and air intake
+✅ Working turbine blade rotation and animation
 
-💨 Simulated air flow and combustion process
+✅ User control panel to start/stop the turbine
 
-🎛️ Interactive UI to control speed, throttle, and temperature
+✅ Smoke and sound effects for realistic immersion
 
-📊 Real-time engine data visualization (RPM, Pressure, Temp)
+✅ UI indicators for speed, temperature, and throttle
 
-🎧 Optional sound effects for engine roar and airflow
+✅ Optimized physics and performance
 
-📂 Project Structure
-bash
-Copy
-Edit
-JetTurbineUnity/
-│
-├── Assets/
-│   ├── Models/          # 3D turbine model and parts
-│   ├── Scripts/         # C# scripts for animation and logic
-│   ├── Prefabs/         # Reusable turbine components
-│   └── UI/              # Interactive UI elements
-│
-├── Scenes/
-│   └── JetTurbine.unity # Main simulation scene
-│
-└── README.md
-🎮 How to Run
-Open Unity Hub
+✅ Designed for desktop (can be extended to VR)
 
-Click Add Project and select the folder containing this project
+----
 
-Open the JetTurbine.unity scene
+🛠️ Tech Stack
+Engine: Unity 2021.3+
 
-Click ▶️ Play to start the simulation
+Language: C# (MonoBehaviour scripts)
 
-⚙️ Technologies Used
-Unity Engine (2022 or above)
+Tools Used: Blender (for 3D modeling), Unity Particle System, Unity UI
 
-C# scripting
+----
 
-Blender (for 3D modeling - optional)
+📁 Project Structure
 
-Shader Graph / VFX Graph (for air & heat visuals)
+📦 JetTurbine
+ ┣ 📂 Assets
+ ┃ ┣ 📂 Scripts
+ ┃ ┣ 📂 Models
+ ┃ ┣ 📂 Materials
+ ┃ ┣ 📂 Prefabs
+ ┃ ┣ 📂 Scenes
+ ┗ 📂 ProjectSettings
 
-🎯 Learning Outcomes
-Understanding jet propulsion mechanics
+ ----
 
-Unity animation techniques
+ 📌 Future Enhancements
+VR compatibility (Oculus/HTC)
 
-UI scripting and real-time interactivity
+Engine heat map visualization
 
-Realistic physics-based simulation development
+Throttle control via joystick
 
-📘 License
-MIT License - Feel free to use, modify, and distribute for educational and non-commercial use.
+Detailed HUD with RPM, thrust, and fuel gauge
